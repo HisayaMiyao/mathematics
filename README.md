@@ -1,2 +1,2 @@
-# mathematics
+# What for?
 for learning math.
